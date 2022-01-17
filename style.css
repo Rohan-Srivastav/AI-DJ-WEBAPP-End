@@ -1,0 +1,55 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.div_speed
+{
+    float: left;
+}
+.speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+
+.div_volume
+{
+    float: right;
+}
+
+#volume{
+    font-size: 23px;
+    margin: 15px;
+}
+.play_btn , .stop_btn, .pause_btn{
+    width: 120px;
+    height: 30px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);
+    margin-right: 20px;
+    margin-left: 20px;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+#song_name{
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+}
+
+
+
